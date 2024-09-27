@@ -1,0 +1,12 @@
+*{
+    --primary-font: Arial, sans serif;
+    --primary-font-color: #3c4043;
+    --secondary-font: Roboto, Arial, sans serif;
+}
+
+a{
+    color:var(--primary-font-color);
+    font-family: var(--secondary-font);
+    text-decoration: none;
+    font-size: medium;
+}
